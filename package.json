@@ -1,8 +1,8 @@
 {
-  "name": "expense-tracker",
+  "name": "self-finance",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mazumdarayush07.github.io/expense-tracker",
+  "homepage": "https://mazumdarayush07.github.io/self-finance",
   "dependencies": {
     "firebase": "^9.8.4",
     "react": "^16.12.0",
